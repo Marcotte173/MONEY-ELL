@@ -1,0 +1,5 @@
+C:\Users\tmarcott\source\repos\ELLMONEY\ELLMONEY\bin\Debug\net5.0\publish\ELLMONEY.exe
+C:\Users\tmarcott\source\repos\ELLMONEY\ELLMONEY\bin\Debug\net5.0\publish\ELLMONEY.dll
+C:\Users\tmarcott\source\repos\ELLMONEY\ELLMONEY\bin\Debug\net5.0\publish\ELLMONEY.deps.json
+C:\Users\tmarcott\source\repos\ELLMONEY\ELLMONEY\bin\Debug\net5.0\publish\ELLMONEY.runtimeconfig.json
+C:\Users\tmarcott\source\repos\ELLMONEY\ELLMONEY\bin\Debug\net5.0\publish\ELLMONEY.pdb

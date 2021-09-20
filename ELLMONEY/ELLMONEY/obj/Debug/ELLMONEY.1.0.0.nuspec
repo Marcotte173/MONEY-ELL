@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ELLMONEY</id>
+    <version>1.0.0</version>
+    <authors>ELLMONEY</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\tmarcott\source\repos\ELLMONEY\ELLMONEY\bin\Debug\net5.0\ELLMONEY.runtimeconfig.json" target="lib\net5.0\ELLMONEY.runtimeconfig.json" />
+    <file src="C:\Users\tmarcott\source\repos\ELLMONEY\ELLMONEY\bin\Debug\net5.0\ELLMONEY.dll" target="lib\net5.0\ELLMONEY.dll" />
+  </files>
+</package>
