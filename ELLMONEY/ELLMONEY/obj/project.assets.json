@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tmarcott\\source\\repos\\ELLMONEY\\ELLMONEY\\ELLMONEY.csproj",
+      "projectUniqueName": "C:\\Users\\tmarcott\\Source\\Repos\\Marcotte173\\MONEY-ELL\\ELLMONEY\\ELLMONEY\\ELLMONEY.csproj",
       "projectName": "ELLMONEY",
-      "projectPath": "C:\\Users\\tmarcott\\source\\repos\\ELLMONEY\\ELLMONEY\\ELLMONEY.csproj",
+      "projectPath": "C:\\Users\\tmarcott\\Source\\Repos\\Marcotte173\\MONEY-ELL\\ELLMONEY\\ELLMONEY\\ELLMONEY.csproj",
       "packagesPath": "C:\\Users\\tmarcott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tmarcott\\source\\repos\\ELLMONEY\\ELLMONEY\\obj\\",
+      "outputPath": "C:\\Users\\tmarcott\\Source\\Repos\\Marcotte173\\MONEY-ELL\\ELLMONEY\\ELLMONEY\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tmarcott\\AppData\\Roaming\\NuGet\\NuGet.Config",
