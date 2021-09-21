@@ -5,7 +5,7 @@ using System.Text;
 public class Write
 {
     internal static void Line(int x, int y, string words) { Console.SetCursorPosition(x, y); Console.Write(words); Console.WriteLine(Color.RESET); }
-    internal static void Line(string words) { Console.WriteLine(words); Console.WriteLine(Color.RESET); }
+    internal static void Line(string words) { Console.Write(words); Console.WriteLine(Color.RESET); }
     internal static void Line(int x, int y, string word1, string word2)
     {
         Console.SetCursorPosition(x, y);
